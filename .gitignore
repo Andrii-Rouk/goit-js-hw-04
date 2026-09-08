@@ -1,0 +1,20 @@
+# Логи
+*.log
+
+# Тимчасові файли
+*.tmp
+
+# Системні файли (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Файл із секретами
+.env
+
+# Якщо є результати збірки
+dist/
+build/
+
+# Якщо використовуєш npm/yarn
+node_modules/
+
